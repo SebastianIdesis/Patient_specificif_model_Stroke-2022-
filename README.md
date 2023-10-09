@@ -1,6 +1,6 @@
 # Effective_Connectivity_Stroke
 
-Calculate Effective Connectivity (Whole-Brain Hopf model) in a stroke dataset as in Idesis et al (2022).
+Calculate Effective Connectivity (Whole-Brain Hopf model) and derived metrics in a stroke dataset as in Idesis et al (2022).
 
 These scripts use MATLAB. They were tested using MATLAB 2020a. They require no additional software packages.
 
